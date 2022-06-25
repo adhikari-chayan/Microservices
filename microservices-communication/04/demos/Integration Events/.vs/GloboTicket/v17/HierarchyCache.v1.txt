@@ -1,0 +1,806 @@
+﻿++Solution 'GloboTicket' ‎(10 of 10 projects)
+i:{00000000-0000-0000-0000-000000000000}:GloboTicket.sln
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\services\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\services\
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\services\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\
+++GloboTicket.Services.ShoppingBasket
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.ShoppingBasket
+++Connected Services 
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1053
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1133
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1054
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1055
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1056
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:>1140
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:>1135
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:>1138
+++Dependencies
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1051
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1132
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1050
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1052
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1048
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:>1142
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:>1049
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:>850
+i:{a6997021-8a1b-4727-9e5c-3ec1db783bfc}:>889
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:>1137
+++Properties
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\properties\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\properties\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\properties\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\properties\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\properties\
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\properties\
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\properties\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\properties\
+++Controllers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\controllers\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\controllers\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\controllers\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\controllers\
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\controllers\
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\controllers\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\controllers\
+++DbContexts
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\dbcontexts\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\dbcontexts\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\dbcontexts\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\dbcontexts\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\dbcontexts\
+++ShoppingBasketDbContext.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\dbcontexts\shoppingbasketdbcontext.cs
+++Entities
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\entities\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\entities\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\entities\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\entities\
+++Extensions
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\extensions\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\extensions\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\extensions\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\extensions\
+++Messages
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\messages\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\messages\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messages\
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\messages\
+++Migrations
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\migrations\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\migrations\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\migrations\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\migrations\
+++Models
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\models\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\models\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\models\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\
+++Profiles
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\profiles\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\profiles\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\profiles\
+++Repositories
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\repositories\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\repositories\
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\repositories\
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\repositories\
+++Worker
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\worker\
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\worker\
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\worker\
+++appsettings.json
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\appsettings.json
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\appsettings.json
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\appsettings.json
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\appsettings.json
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\appsettings.json
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\appsettings.json
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\appsettings.json
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\appsettings.json
+++Program.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\program.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\program.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\program.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\program.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\program.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\program.cs
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\program.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\program.cs
+++Startup.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\startup.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\startup.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\startup.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\startup.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\startup.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\startup.cs
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\startup.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\startup.cs
+++No service dependencies discovered
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1057
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1134
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1058
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1060
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1059
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:>1141
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:>1136
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:>1139
+++Analyzers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:analyzers
+i:{e2c27a67-a664-4501-8045-c71f13924979}:analyzers
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:analyzers
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:analyzers
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:analyzers
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:analyzers
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:analyzers
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:analyzers
+++Frameworks
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:frameworks
+i:{e2c27a67-a664-4501-8045-c71f13924979}:frameworks
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:frameworks
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:frameworks
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:frameworks
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:frameworks
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:frameworks
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:frameworks
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:frameworks
+++Packages
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:packages
+i:{e2c27a67-a664-4501-8045-c71f13924979}:packages
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:packages
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:packages
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:packages
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:packages
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:packages
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:packages
+i:{a6997021-8a1b-4727-9e5c-3ec1db783bfc}:packages
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:packages
+++Projects
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:projects
+i:{e2c27a67-a664-4501-8045-c71f13924979}:projects
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:projects
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:projects
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:projects
+++launchSettings.json
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\properties\launchsettings.json
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\properties\launchsettings.json
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\properties\launchsettings.json
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\properties\launchsettings.json
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\properties\launchsettings.json
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\properties\launchsettings.json
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\properties\launchsettings.json
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\properties\launchsettings.json
+++serviceDependencies.json
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\properties\servicedependencies.json
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\properties\servicedependencies.json
+++BasketChangeEventController.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\controllers\basketchangeeventcontroller.cs
+++BasketLinesController.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\controllers\basketlinescontroller.cs
+++BasketsController.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\controllers\basketscontroller.cs
+++Basket.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\basket.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basket.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basket.cs
+++BasketChangeEvent.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\basketchangeevent.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\entities\basketchangeevent.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\models\basketchangeevent.cs
+++BasketChangeTypeEnum.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\basketchangetypeenum.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\models\basketchangetypeenum.cs
+++BasketLine.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\basketline.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketline.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basketline.cs
+++Event.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\entities\event.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\event.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\entities\event.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\event.cs
+++HttpClientExtensions.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\extensions\httpclientextensions.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\extensions\httpclientextensions.cs
+++BasketCheckoutMessage.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\messages\basketcheckoutmessage.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messages\basketcheckoutmessage.cs
+++BasketLineMessage.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\messages\basketlinemessage.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messages\basketlinemessage.cs
+++20200630142717_InitialMigration.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200630142717_initialmigration.cs
+++20200711083614_Events.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200711083614_events.cs
+++20200711091215_BasketLinePrice.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200711091215_basketlineprice.cs
+++20200815084323_CouponIdAddedToBasket.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815084323_couponidaddedtobasket.cs
+++20200815102156_CouponIdNullable.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815102156_couponidnullable.cs
+++20200815140846_BasketChangeEventAdded.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815140846_basketchangeeventadded.cs
+++ShoppingBasketDbContextModelSnapshot.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\shoppingbasketdbcontextmodelsnapshot.cs
+++BasketChangeEventForPublication.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketchangeeventforpublication.cs
+++BasketCheckout.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketcheckout.cs
+++BasketForCreation.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketforcreation.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basketforcreation.cs
+++BasketLineForCreation.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketlineforcreation.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basketlineforcreation.cs
+++BasketLineForUpdate.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\basketlineforupdate.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basketlineforupdate.cs
+++Coupon.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\coupon.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\entities\coupon.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\coupon.cs
+++PriceUpdate.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\models\priceupdate.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\models\priceupdate.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\priceupdate.cs
+++BasketChangeEventProfile.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\basketchangeeventprofile.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\profiles\basketchangeeventprofile.cs
+++BasketCheckoutProfile.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\basketcheckoutprofile.cs
+++BasketLineProfile.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\basketlineprofile.cs
+++BasketProfile.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\basketprofile.cs
+++EventProfile.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\profiles\eventprofile.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\profiles\eventprofile.cs
+++BasketChangeEventRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\basketchangeeventrepository.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\repositories\basketchangeeventrepository.cs
+++BasketLinesIntegrationRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\basketlinesintegrationrepository.cs
+++BasketLinesRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\basketlinesrepository.cs
+++BasketRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\basketrepository.cs
+++EventRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\eventrepository.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\repositories\eventrepository.cs
+++IBasketChangeEventRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\ibasketchangeeventrepository.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\repositories\ibasketchangeeventrepository.cs
+++IBasketLinesIntegrationRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\ibasketlinesintegrationrepository.cs
+++IBasketLinesRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\ibasketlinesrepository.cs
+++IBasketRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\ibasketrepository.cs
+++IEventRepository.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\repositories\ieventrepository.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\repositories\ieventrepository.cs
+++DiscountService.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\services\discountservice.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\discountservice.cs
+++EventCatalogService.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\services\eventcatalogservice.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\eventcatalogservice.cs
+++IDiscountService.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\services\idiscountservice.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\idiscountservice.cs
+++IEventCatalogService.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\services\ieventcatalogservice.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\ieventcatalogservice.cs
+++ServiceBusListener.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\worker\servicebuslistener.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\worker\servicebuslistener.cs
+++appsettings.Development.json
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\appsettings.development.json
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\appsettings.development.json
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\appsettings.development.json
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\appsettings.development.json
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\appsettings.development.json
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\appsettings.development.json
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\appsettings.development.json
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\users\chayan.adhikari\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\users\chayan.adhikari\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\users\chayan.adhikari\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\users\chayan.adhikari\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\users\chayan.adhikari\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\microsoft.aspnetcore.app
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\microsoft.aspnetcore.app
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\microsoft.aspnetcore.app
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\microsoft.aspnetcore.app
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\microsoft.aspnetcore.app
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\microsoft.aspnetcore.app
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\microsoft.aspnetcore.app
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\microsoft.netcore.app
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\microsoft.netcore.app
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\microsoft.netcore.app
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\microsoft.netcore.app
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\microsoft.netcore.app
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\microsoft.netcore.app
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\microsoft.netcore.app
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (7.0.0)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1174
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1255
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1192
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1152
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1205
+++Microsoft.Azure.ServiceBus (4.1.4)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1178
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1260
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1209
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:>1243
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:>1162
+++Microsoft.EntityFrameworkCore.Design (3.1.5)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1175
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1193
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.5)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1173
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1254
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1191
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1151
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1204
+++Microsoft.EntityFrameworkCore.Tools (3.1.3)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1177
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1195
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1208
+++Microsoft.Extensions.Http.Polly (3.1.5)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1179
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1261
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1157
+++Swashbuckle.AspNetCore (5.5.1)
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:>1176
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1256
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:>1194
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1153
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1207
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:>1230
+++GloboTicket.Integration.Messages
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messages\globoticket.integration.messages.csproj
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messages\globoticket.integration.messages.csproj
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messages\globoticket.integration.messages.csproj
+i:{8bc3b285-5ad7-49a5-ae12-6903c029fec5}:GloboTicket.Integration.Messages
+++GloboTicket.Integration.MessagingBus
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\globoticket.integration.messagingbus.csproj
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\globoticket.integration.messagingbus.csproj
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\globoticket.integration.messagingbus.csproj
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\globoticket.integration.messagingbus.csproj
+i:{8bc3b285-5ad7-49a5-ae12-6903c029fec5}:GloboTicket.Integration.MessagingBus
+++serviceDependencies.GloboTicketServicesShoppingBasket - Web Deploy.json
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\properties\servicedependencies.globoticketservicesshoppingbasket - web deploy.json
+++20200630142717_InitialMigration.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200630142717_initialmigration.designer.cs
+++20200711083614_Events.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200711083614_events.designer.cs
+++20200711091215_BasketLinePrice.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200711091215_basketlineprice.designer.cs
+++20200815084323_CouponIdAddedToBasket.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815084323_couponidaddedtobasket.designer.cs
+++20200815102156_CouponIdNullable.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815102156_couponidnullable.designer.cs
+++20200815140846_BasketChangeEventAdded.Designer.cs
+i:{cd16338f-f1a0-44f7-834e-7813f3ef63fe}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.shoppingbasket\migrations\20200815140846_basketchangeeventadded.designer.cs
+++GloboTicket.Services.EventCatalog
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.EventCatalog
+++CategoryController.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\controllers\categorycontroller.cs
+++EventController.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\controllers\eventcontroller.cs
+++PriceUpdatedMessage.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\messages\priceupdatedmessage.cs
+++EventCatalogDbContext.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\dbcontexts\eventcatalogdbcontext.cs
+++Category.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\entities\category.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\category.cs
+++20200909154701_InitialMigration.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\migrations\20200909154701_initialmigration.cs
+++EventCatalogDbContextModelSnapshot.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\migrations\eventcatalogdbcontextmodelsnapshot.cs
+++CategoryDto.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\models\categorydto.cs
+++EventDto.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\models\eventdto.cs
+++CategoryProfile.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\profiles\categoryprofile.cs
+++CategoryRepository.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\repositories\categoryrepository.cs
+++ICategoryRepository.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\repositories\icategoryrepository.cs
+++AutoMapper (9.0.0)
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1258
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1155
+++Microsoft.EntityFrameworkCore.Tools (3.1.5)
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1259
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1156
+++Microsoft.Extensions.Logging.Debug (3.1.5)
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1262
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1158
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:>1231
+++Polly (7.2.1)
+i:{e2c27a67-a664-4501-8045-c71f13924979}:>1257
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:>1154
+++serviceDependencies.GloboTicketServicesEventCatalog - Web Deploy.json
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\properties\servicedependencies.globoticketserviceseventcatalog - web deploy.json
+++20200909154701_InitialMigration.Designer.cs
+i:{e2c27a67-a664-4501-8045-c71f13924979}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.eventcatalog\migrations\20200909154701_initialmigration.designer.cs
+++GloboTicket.Services.Marketing
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.Marketing
+++BasketChangeEventService.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\services\basketchangeeventservice.cs
+++IBasketChangeEventService.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\services\ibasketchangeeventservice.cs
+++TimedBasketChangeEventService.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\worker\timedbasketchangeeventservice.cs
+++MarketingDbContext.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\dbcontexts\marketingdbcontext.cs
+++20200815151434_Initial.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\migrations\20200815151434_initial.cs
+++MarketingDbContextModelSnapshot.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\migrations\marketingdbcontextmodelsnapshot.cs
+++20200815151434_Initial.Designer.cs
+i:{d230b20e-4c90-4bc4-a3fe-0b1ab7d02380}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.marketing\migrations\20200815151434_initial.designer.cs
+++GloboTicket.Services.Discount
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.Discount
+++DiscountController.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\controllers\discountcontroller.cs
+++DiscountDbContext.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\dbcontexts\discountdbcontext.cs
+++20200808123113_Initial.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\migrations\20200808123113_initial.cs
+++DiscountDbContextModelSnapshot.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\migrations\discountdbcontextmodelsnapshot.cs
+++CouponDto.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\models\coupondto.cs
+++CouponProfile.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\profiles\couponprofile.cs
+++CouponRepository.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\repositories\couponrepository.cs
+++ICouponRepository.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\repositories\icouponrepository.cs
+++20200808123113_Initial.Designer.cs
+i:{cbd08df7-c1fa-4670-a265-827259e45867}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.discount\migrations\20200808123113_initial.designer.cs
+++GloboTicket.Services.Ordering
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.Ordering
+++ApplicationBuilderExtensions.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\extensions\applicationbuilderextensions.cs
+++Messaging
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messaging\
+++AzServiceBusConsumer.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messaging\azservicebusconsumer.cs
+++IAzServiceBusConsumer.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messaging\iazservicebusconsumer.cs
+++OrderController.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\controllers\ordercontroller.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\controllers\ordercontroller.cs
+++OrderDbContext.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\dbcontexts\orderdbcontext.cs
+++Order.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\entities\order.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\order.cs
+++OrderLine.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\entities\orderline.cs
+++OrderPaymentRequestMessage.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messages\orderpaymentrequestmessage.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\messages\orderpaymentrequestmessage.cs
+++OrderPaymentUpdateMessage.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\messages\orderpaymentupdatemessage.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\messages\orderpaymentupdatemessage.cs
+++20200809150233_Initial.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\migrations\20200809150233_initial.cs
+++OrderDbContextModelSnapshot.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\migrations\orderdbcontextmodelsnapshot.cs
+++IOrderRepository.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\repositories\iorderrepository.cs
+++OrderRepository.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\repositories\orderrepository.cs
+++Microsoft.EntityFrameworkCore.Design (3.1.6)
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:>1206
+++20200809150233_Initial.Designer.cs
+i:{a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.order\migrations\20200809150233_initial.designer.cs
+++GloboTicket.Services.Payment
+i:{f3632f51-056c-43c5-9e59-8d371e99c8bf}:GloboTicket.Services.Payment
+++Model
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\model\
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\model\
+++ExternalGatewayPaymentService.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\services\externalgatewaypaymentservice.cs
+++IExternalGatewayPaymentService.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\services\iexternalgatewaypaymentservice.cs
+++PaymentInfo.cs
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.services.payment\model\paymentinfo.cs
+++Microsoft.Extensions.Hosting (3.1.6)
+i:{71d77f9f-0a21-4054-bb7c-a9c75062b202}:>1242
+++Fake
+i:{00000000-0000-0000-0000-000000000000}:Fake
+++External.PaymentGateway
+i:{bee0f382-1476-489a-9aca-b4d969b45bdf}:External.PaymentGateway
+++PaymentApproverController.cs
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\controllers\paymentapprovercontroller.cs
+++PaymentDto.cs
+i:{08e68c56-a116-430c-a5c3-78797b49c726}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\external.paymentgateway\model\paymentdto.cs
+++Integration
+i:{00000000-0000-0000-0000-000000000000}:Integration
+++AzServiceBusMessageBus.cs
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\azservicebusmessagebus.cs
+++IMessageBus.cs
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\imessagebus.cs
+++NETStandard.Library
+i:{532539e3-8124-49e1-bdae-8931a42bf7d6}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messagingbus\netstandard.library
+++IntegrationBaseMessage.cs
+i:{a6997021-8a1b-4727-9e5c-3ec1db783bfc}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.integration.messages\integrationbasemessage.cs
+++NETStandard.Library (2.0.3)
+i:{a6997021-8a1b-4727-9e5c-3ec1db783bfc}:>1233
+++Frontends
+i:{00000000-0000-0000-0000-000000000000}:Frontends
+++GloboTicket.Web
+i:{825d4e4f-3bff-4546-96ab-8ab83d95722d}:GloboTicket.Web
+++wwwroot
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\
+++Views
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\
+++css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\css\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\
+++fonts
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\
+++img
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\
+++lib
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\
+++favicon.ico
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\favicon.ico
+++AdminController.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\controllers\admincontroller.cs
+++EventCatalogController.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\controllers\eventcatalogcontroller.cs
+++ShoppingBasketController.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\controllers\shoppingbasketcontroller.cs
+++EnumerableOfGuid.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\extensions\enumerableofguid.cs
+++HttpClientExtension.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\extensions\httpclientextension.cs
+++IRequestCookieCollection.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\extensions\irequestcookiecollection.cs
+++Api
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\
+++View
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\
+++Settings.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\settings.cs
+++IOrderService.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\iorderservice.cs
+++IShoppingBasketService.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\ishoppingbasketservice.cs
+++OrderService.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\orderservice.cs
+++ShoppingBasketService.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\services\shoppingbasketservice.cs
+++Admin
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\admin\
+++EventCatalog
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\eventcatalog\
+++Order
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\order\
+++Shared
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shared\
+++ShoppingBasket
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\
+++_ViewImports.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\_viewstart.cshtml
+++appsettings.Production.json
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\appsettings.production.json
+++Microsoft.CodeAnalysis.Analyzers
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\users\chayan.adhikari\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\users\chayan.adhikari\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (3.1.5)
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:>1221
+++site.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\css\site.css
+++OpenSans-Bold.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-bold.ttf
+++OpenSans-BoldItalic.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-bolditalic.ttf
+++OpenSans-ExtraBold.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-extrabold.ttf
+++OpenSans-ExtraBoldItalic.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-extrabolditalic.ttf
+++OpenSans-Italic.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-italic.ttf
+++OpenSans-Light.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-light.ttf
+++OpenSans-LightItalic.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-lightitalic.ttf
+++OpenSans-Regular.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-regular.ttf
+++OpenSans-Semibold.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-semibold.ttf
+++OpenSans-SemiboldItalic.ttf
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\fonts\opensans-semibolditalic.ttf
+++_Export_globoticket-horizontal-white.png
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\_export_globoticket-horizontal-white.png
+++arrow-down.svg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\arrow-down.svg
+++banjo.jpg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\banjo.jpg
+++cart-plus.svg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\cart-plus.svg
+++michael.jpg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\michael.jpg
+++musical.jpg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\musical.jpg
+++times.svg
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\img\times.svg
+++bootstrap
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\
+++jquery
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\
+++jquery-validation
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation-unobtrusive\
+++BasketForCheckout.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\basketforcheckout.cs
+++CouponForUpdate.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\couponforupdate.cs
+++EventCategory.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\api\eventcategory.cs
+++BasketCheckoutViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\basketcheckoutviewmodel.cs
+++BasketLineViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\basketlineviewmodel.cs
+++BasketViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\basketviewmodel.cs
+++ErrorViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\errorviewmodel.cs
+++EventListModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\eventlistmodel.cs
+++EventPriceUpdateViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\eventpriceupdateviewmodel.cs
+++OrderViewModel.cs
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\models\view\orderviewmodel.cs
+++Details.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\admin\details.cshtml
+++Index.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\admin\index.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\eventcatalog\index.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\order\index.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\index.cshtml
+++DisplayTemplates
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\eventcatalog\displaytemplates\
+++Detail.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\eventcatalog\detail.cshtml
+++_Layout.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shared\_layout.cshtml
+++_ShoppingCartWidget.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shared\_shoppingcartwidget.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shared\error.cshtml
+++EditorTemplates
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\editortemplates\
+++Checkout.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\checkout.cshtml
+++CheckoutComplete.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\checkoutcomplete.cshtml
+++dist
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\dist\
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\license.txt
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Event.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\eventcatalog\displaytemplates\event.cshtml
+++BasketLineViewModel.cshtml
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\views\shoppingbasket\editortemplates\basketlineviewmodel.cshtml
+++js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\
+++jquery.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{0848f9b8-b1cc-412f-9a8c-a09058575a1e}:c:\mystuff\practice projects\microservices\microservices-communication\04\demos\integration events\globoticket.client\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

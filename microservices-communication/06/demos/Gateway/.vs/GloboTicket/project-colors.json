@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "883d3c2d-9557-46b7-a993-1cd6117a731a": {
+      "ProjectGuid": "883d3c2d-9557-46b7-a993-1cd6117a731a",
+      "DisplayName": "GloboTicket.Gateway.WebBff",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

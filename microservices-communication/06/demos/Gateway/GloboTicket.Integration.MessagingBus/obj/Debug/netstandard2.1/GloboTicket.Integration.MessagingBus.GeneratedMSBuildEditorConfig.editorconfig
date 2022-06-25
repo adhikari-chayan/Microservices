@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GloboTicket.Integration.MessagingBus
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\06\demos\Gateway\GloboTicket.Integration.MessagingBus\

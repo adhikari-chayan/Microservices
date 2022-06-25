@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GloboTicket.Services.Discount
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\04\demos\Integration Events\GloboTicket.Services.Discount\

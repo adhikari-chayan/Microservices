@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GloboTicket.Web
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\03\demos\grpc\GloboTicket\GloboTicket.Client\

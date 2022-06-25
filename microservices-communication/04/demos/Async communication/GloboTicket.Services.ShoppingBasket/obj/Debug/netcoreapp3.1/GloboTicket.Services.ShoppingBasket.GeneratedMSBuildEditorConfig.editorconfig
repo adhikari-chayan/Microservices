@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GloboTicket.Services.ShoppingBasket
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\04\demos\Async communication\GloboTicket.Services.ShoppingBasket\

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GloboTicket.Gateway.WebBff
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\06\demos\Gateway\GloboTicket.Gateway.WebBff\

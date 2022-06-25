@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c": {
+      "ProjectGuid": "a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c",
+      "DisplayName": "GloboTicket.Services.Ordering",
+      "ColorIndex": 0
+    },
+    "cd16338f-f1a0-44f7-834e-7813f3ef63fe": {
+      "ProjectGuid": "cd16338f-f1a0-44f7-834e-7813f3ef63fe",
+      "DisplayName": "GloboTicket.Services.ShoppingBasket",
+      "ColorIndex": 1
+    },
+    "71d77f9f-0a21-4054-bb7c-a9c75062b202": {
+      "ProjectGuid": "71d77f9f-0a21-4054-bb7c-a9c75062b202",
+      "DisplayName": "GloboTicket.Services.Payment",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d230b20e-4c90-4bc4-a3fe-0b1ab7d02380": {
+      "ProjectGuid": "d230b20e-4c90-4bc4-a3fe-0b1ab7d02380",
+      "DisplayName": "GloboTicket.Services.Marketing",
+      "ColorIndex": 3
+    },
+    "e2c27a67-a664-4501-8045-c71f13924979": {
+      "ProjectGuid": "e2c27a67-a664-4501-8045-c71f13924979",
+      "DisplayName": "GloboTicket.Services.EventCatalog",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

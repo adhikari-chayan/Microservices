@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = External.PaymentGateway
+build_property.ProjectDir = C:\MyStuff\Practice Projects\Microservices\microservices-communication\03\demos\grpc\GloboTicket\External.PaymentGateway\

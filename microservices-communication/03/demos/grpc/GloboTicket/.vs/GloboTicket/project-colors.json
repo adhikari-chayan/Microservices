@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71d77f9f-0a21-4054-bb7c-a9c75062b202": {
+      "ProjectGuid": "71d77f9f-0a21-4054-bb7c-a9c75062b202",
+      "DisplayName": "GloboTicket.Services.Payment",
+      "ColorIndex": 0
+    },
+    "532539e3-8124-49e1-bdae-8931a42bf7d6": {
+      "ProjectGuid": "532539e3-8124-49e1-bdae-8931a42bf7d6",
+      "DisplayName": "GloboTicket.Integration.MessagingBus",
+      "ColorIndex": 1
+    },
+    "a6997021-8a1b-4727-9e5c-3ec1db783bfc": {
+      "ProjectGuid": "a6997021-8a1b-4727-9e5c-3ec1db783bfc",
+      "DisplayName": "GloboTicket.Integration.Messages",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
