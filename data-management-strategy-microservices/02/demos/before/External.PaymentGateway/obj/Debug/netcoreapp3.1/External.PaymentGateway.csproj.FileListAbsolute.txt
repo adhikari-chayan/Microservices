@@ -1,0 +1,108 @@
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.exe
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.deps.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.dev.json
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CoreCompileInputs.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfoInputs.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfo.cs
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.RazorTargetAssemblyInfo.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CopyComplete
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.Manifest.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.xml
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.genruntimeconfig.cache
+C:\Users\morse\Downloads\microservices-communication-asp-dot-net-core\03\demos\Sync communication\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csprojAssemblyReference.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.exe
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.deps.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.dev.json
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csprojAssemblyReference.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CoreCompileInputs.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfoInputs.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfo.cs
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.RazorTargetAssemblyInfo.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CopyComplete
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.Manifest.cache
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.xml
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\dev\microservices\m3\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.genruntimeconfig.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.exe
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.deps.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.runtimeconfig.dev.json
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csprojAssemblyReference.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfoInputs.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.AssemblyInfo.cs
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CoreCompileInputs.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.RazorTargetAssemblyInfo.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.csproj.CopyComplete
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.Manifest.cache
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\staticwebassets\External.PaymentGateway.StaticWebAssets.xml
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.dll
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.pdb
+C:\dev\microservices\m2\before\External.PaymentGateway\obj\Debug\netcoreapp3.1\External.PaymentGateway.genruntimeconfig.cache
