@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2c27a67-a664-4501-8045-c71f13924979": {
+      "ProjectGuid": "e2c27a67-a664-4501-8045-c71f13924979",
+      "DisplayName": "GloboTicket.Services.EventCatalog",
+      "ColorIndex": 0
+    },
+    "2d18c092-9d82-495b-9aff-02f15b52ef6b": {
+      "ProjectGuid": "2d18c092-9d82-495b-9aff-02f15b52ef6b",
+      "DisplayName": "Globoticket.Services.IntegrationEventPublisher",
+      "ColorIndex": 1
+    },
+    "a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c": {
+      "ProjectGuid": "a36462e2-cd8a-4d63-bc2d-e4cdb3313a7c",
+      "DisplayName": "GloboTicket.Services.Ordering",
+      "ColorIndex": 2
+    },
+    "cd16338f-f1a0-44f7-834e-7813f3ef63fe": {
+      "ProjectGuid": "cd16338f-f1a0-44f7-834e-7813f3ef63fe",
+      "DisplayName": "GloboTicket.Services.ShoppingBasket",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
